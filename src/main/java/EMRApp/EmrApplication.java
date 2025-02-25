@@ -1,4 +1,4 @@
-package emr.controllers;
+package EMRApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

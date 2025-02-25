@@ -1,6 +1,6 @@
-package emr.controllers.data.repository;
+package EMRApp.data.repository;
 
-import emr.controllers.data.model.User;
+import EMRApp.data.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

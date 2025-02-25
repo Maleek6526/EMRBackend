@@ -1,13 +1,11 @@
-package emr.controllers.dtos.request;
+package EMRApp.dtos.request;
 
-import emr.controllers.Enum.Gender;
-import lombok.Getter;
-import lombok.Setter;
+import EMRApp.Enum.Gender;
+import lombok.Data;
 
 import java.time.LocalDate;
 
-@Setter
-@Getter
+@Data
 public class SignUpRequest {
     private String firstName;
     private String middleName;

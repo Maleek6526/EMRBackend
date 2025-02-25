@@ -1,4 +1,4 @@
-package emr.controllers.Enum;
+package EMRApp.Enum;
 
 public enum Gender {
     MALE,
